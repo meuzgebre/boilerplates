@@ -1,1 +1,25 @@
-# Linux Command Cheat-Sheet
+# Linux Commands Cheat Sheet
+
+**Table of Contents**
+
+* [Repositories](#repositories)
+  * [Package Manger](#package-manger)
+  * [Repository Manager](#repository-manager)
+* [Navigation](#navigation)
+  * [File System Navigation](#file-system-navigation)
+  * [Directory Operations](#directory-operations)
+* [File Management](#file-management)
+  * [File Manipulation](#file-manipulation)
+  * [File Permissions](#file-permissions)
+* [Text Processing](#text-processing)
+* [Process Management](#process-management)
+    * [Viewing Processes](#viewing-processes)
+    * [Managing Processes](#managing-processes)
+* [System Information](#system-information)
+  * [Hardware Information](#hardware-information)
+  * [System Status](#system-status)
+* [Network Management](#network-management)
+* [User Management](#user-management)
+    * [Users](#users)
+    * [Group](#group)
+* [Additional Resources](#additional-resources)
