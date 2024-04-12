@@ -111,7 +111,7 @@
 
 ---
 
-## File Management Cheat Sheet
+## File Management
 
 ### File Manipulation
 
