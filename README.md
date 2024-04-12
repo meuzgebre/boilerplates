@@ -59,3 +59,51 @@
   - while `apt-get` is still widely used and offers more fine-grained control, `apt` is generally preferred for its simplicity and better dependency management.
   - while `yum` is still functional and present in older RPM-based distributions, `dnf` is the preferred and recommended package manager for modern distributions
 
+
+## Navigation
+
+### File System Navigation
+
+#### Basic Commands
+- `cd [directory]`: Change directory.
+- `pwd`: Print working directory.
+- `ls`: List contents of current directory.
+- `ls -l`: Detailed listing of contents.
+
+#### Navigating Directories
+- `cd ..`: Move up one directory.
+- `cd ~`: Move to the home directory.
+- `cd /`: Move to the root directory.
+
+#### Absolute vs Relative Paths
+- Absolute paths start from the root directory.
+- Relative paths start from the current directory.
+
+#### Tab Completion
+- Press `Tab` to auto-complete file and directory names.
+
+#### Hidden Files
+- Hidden files start with a dot (e.g., `.gitignore`).
+- Use `ls -a` to view hidden files.
+
+### Directory Operations
+
+#### Creating Directories
+- `mkdir [directory]`: Create a new directory.
+
+#### Removing Directories
+- `rmdir [directory]`: Remove an empty directory.
+- `rm -r [directory]`: Remove a directory and its contents.
+
+#### Moving and Renaming Directories
+- `mv [old directory] [new directory]`: Move or rename a directory.
+
+#### Copying Directories
+- `cp -r [source directory] [destination directory]`: Copy a directory and its contents.
+
+#### Viewing Directory Contents
+- `ls [directory]`: List contents of a specific directory.
+- `ls -l [directory]`: Detailed listing of contents of a specific directory.
+
+#### Changing Permissions
+- `chmod [permissions] [directory]`: Change permissions of a directory.
